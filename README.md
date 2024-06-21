@@ -1,3 +1,3 @@
 # Bokanir
 
-einfalt python bóknurar kerfi gert með Tkinter gui
+einfalt python bókunar kerfi gert með Tkinter gui
